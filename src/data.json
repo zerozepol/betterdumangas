@@ -13,7 +13,7 @@
     "note": "Public directory listing; hindi pa nasubukang tawagan.",
     "period": "",
     "status": "",
-    "reviewed": "2026-11-08"
+    "reviewed": "2026-11-09"
   },
   {
     "id": 2,
@@ -26,10 +26,11 @@
     "phone": "+63333612429",
     "email": "dumangas_dh@iloilo.gov.ph",
     "address": "Ilaya 1st, Dumangas, Iloilo",
-    "note": "Numero ng admin telefax mula sa provincial directory; hindi pa nasubukang tawagan.",
+    "note": "361-2429: Admin telefax / ER. Records/SWO: (033) 323-0295; Records: (033) 527-8191. Alternative email: ddh.dumangas@gmail.com. Hindi ibig sabihin ng 24 oras na lahat ng outpatient at records services ay laging bukas.",
     "period": "",
     "status": "",
-    "reviewed": "2026-11-08"
+    "reviewed": "2026-11-09",
+    "officeHours": "24 oras ayon sa provincial hospital directory; kumpirmahin ang hiwalay na records/clinic schedule"
   },
   {
     "id": 3,
@@ -814,5 +815,65 @@
     "period": "Notice: 15 Nobyembre 2024",
     "status": "Historical procurement notice",
     "reviewed": "2026-11-08"
+  },
+  {
+    "id": 52,
+    "lgu": "dm",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "reviewed": "2026-11-09",
+    "note": "Source: Bureau of Local Government Finance. FY2025 preliminary, extracted 3 March 2026. Figures from the exact LGU/province/type row, rounded to two decimals in PHP million. LGU reports through BLGF LIFT; hindi audit opinion. Operating at non-operating expenditures ay magkaibang sukatan. Hindi ito current annual appropriation o FY2026 actual spending.",
+    "name": "BLGF Statement of Receipts and Expenditures — FY2025 Preliminary",
+    "kind": "budget",
+    "category": "Reported actual receipts and expenditures",
+    "period": "FY2025 · Preliminary",
+    "description": "Current operating income: ₱334.60 milyon; current operating expenditures: ₱261.03 milyon.",
+    "source": "https://blgf.gov.ph/lgu-fiscal-data/",
+    "documentUrl": "https://blgf.gov.ph/wp-content/uploads/2026/05/By-LGU-SRE-2025.xlsx",
+    "metrics": [
+      {
+        "label": "Local-source income",
+        "value": "₱35.75 milyon"
+      },
+      {
+        "label": "External-source income",
+        "value": "₱298.85 milyon"
+      },
+      {
+        "label": "Total current operating income",
+        "value": "₱334.60 milyon"
+      },
+      {
+        "label": "Total current operating expenditures",
+        "value": "₱261.03 milyon"
+      },
+      {
+        "label": "Net operating income",
+        "value": "₱73.57 milyon"
+      },
+      {
+        "label": "Capital/investment expenditures",
+        "value": "₱47.82 milyon"
+      },
+      {
+        "label": "Total non-operating expenditures",
+        "value": "₱55.43 milyon"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "lgu": "dm",
+    "phone": "+63335278092",
+    "email": "iloilo.dumangas@comelec.gov.ph",
+    "address": "Liga Hall Building, Zamora Street, Dumangas, Iloilo",
+    "reviewed": "2026-11-09",
+    "note": "Kumpirmahin ang kasalukuyang venue bago bumisita: may hiwalay na 2025-election COC filing notice na gumamit ng Liga Hall Extension, Burgos Regidor dahil sa renovation. Hindi ito patunay ng permanenteng relocation.",
+    "name": "COMELEC Office of the Election Officer — Dumangas",
+    "kind": "office",
+    "category": "National office",
+    "description": "Public contact mula sa COMELEC Region VI field-office directory.",
+    "source": "https://www.comelec.gov.ph/?r=ContactInformation%2FFieldOffices%2FCityMunicipalOffices%2Fregion6offices"
   }
 ]
